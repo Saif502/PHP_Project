@@ -1,0 +1,2 @@
+This educational platform allows users to ask questions on various topics, share answers through text, photos, or videos, and communicate with each other via messaging. The site includes an admin panel for content moderation and user management.![Screenshot 2024-09-18 162700](https://github.com/user-attachments/assets/4844b3d8-a786-49ce-8aee-9f3341a1d1cb)
+![Screenshot 2024-09-18 161724](https://github.com/user-attachments/assets/626781f2-7f30-4be9-a387-7d9e186453d9)
